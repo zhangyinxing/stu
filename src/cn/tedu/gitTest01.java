@@ -3,7 +3,9 @@ package cn.tedu;
 public class gitTest01 {
 	public static void main(String[] args) {
 
-		System.out.println("git test06");
+
+		System.out.println("git test07");
+
 
 	}
 }
